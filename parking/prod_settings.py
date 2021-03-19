@@ -25,7 +25,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'ecm#wiiy1u8-x##6!3d=_w7wb96k3^$jwwj&tk3)!i6ln3bi00'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['rfid-parking.herokuapp.com']
 
