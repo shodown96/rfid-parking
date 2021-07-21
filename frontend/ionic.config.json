@@ -1,0 +1,7 @@
+{
+    "name": "ParkApp",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }

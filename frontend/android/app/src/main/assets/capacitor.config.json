@@ -1,0 +1,14 @@
+{
+    "appId": "io.ionic.parkapp",
+    "appName": "ParkApp",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {},
+    "plugins": {
+        "SplashScreen": {
+          "launchShowDuration": 5000,
+          "splashFullScreen": true
+        }
+      }
+  }
